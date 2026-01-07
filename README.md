@@ -23,4 +23,4 @@ Databases: JSON, SQL (soon)
 
 📂 Projects
 
-More projects will appear as I grow — this portfolio will be updated regularly.
+More projects will appear as I grow - this portfolio will be updated regularly.
