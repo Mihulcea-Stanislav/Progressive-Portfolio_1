@@ -1,0 +1,13 @@
+{
+    "skills": [
+        { "id": 1, "name": "JavaScript", "level": 100, "category": "frontend" },
+        { "id": 2, "name": "Node.js", "level": 55, "category": "backend" },
+        { "id": 3, "name": "Git", "level": 60, "category": "tools" }
+    ],
+    "tasks": [
+        { "id": 1, "skillId": 1, "text": "Finish JS exercises", "done": true, "priority": "high" },
+        { "id": 2, "skillId": 2, "text": "Build Node mini-project", "done": true, "priority": "medium" },
+        { "id": 3, "skillId": 1, "text": "Complete DOM project", "done": false, "priority": "medium" },
+        { "id": 4, "skillId": 3, "text": "Learn Git commands", "done": true, "priority": "high" }
+    ]
+}

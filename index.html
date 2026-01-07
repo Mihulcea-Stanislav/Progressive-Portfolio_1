@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IT Skill Tracker</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>IT Skill Tracker</h1>
+  </header>
+
+  <section id="filters-section">
+    <h2>Filters</h2>
+    <label>Category:
+      <select id="category-filter">
+        <option value="all">All</option>
+        <option value="frontend">Frontend</option>
+        <option value="backend">Backend</option>
+        <option value="tools">Tools</option>
+      </select>
+    </label>
+
+    <label>Status:
+      <select id="status-filter">
+        <option value="all">All</option>
+        <option value="done">Done</option>
+        <option value="in-progress">In Progress</option>
+      </select>
+    </label>
+  </section>
+
+  <main>
+    <section id="skills-section">
+      <h2>My Skills</h2>
+      <div id="skills-container"></div>
+    </section>
+
+    <section id="tasks-section">
+      <h2>Tasks</h2>
+      <div id="tasks-container"></div>
+    </section>
+
+    <section id="stats-section">
+      <h2>Statistics</h2>
+      <div id="stats-container"></div>
+    </section>
+  </main>
+
+  <script src="main.js"></script>
+</body>
+</html>

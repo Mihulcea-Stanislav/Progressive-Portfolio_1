@@ -1,0 +1,88 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #ffffff;
+  color: #1e1e1e;
+  font-weight: bold;
+}
+
+header h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #020202;
+}
+
+section {
+  margin-bottom: 30px;
+  padding: 20px;
+  background-color: #f3f4f5;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+#skills-container, #tasks-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+/* Навыки */
+.skill-card {
+  background-color: rgba(0,0,0,0.05);
+  padding: 10px;
+  border-radius: 6px;
+  width: 200px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+.skill-card:hover {
+  transform: scale(1.05);
+}
+.skill-card h3 {
+  margin: 0 0 5px 0;
+}
+.progress-bar {
+  background-color: #ccc;
+  border-radius: 5px;
+  height: 20px;
+  margin-top: 5px;
+  overflow: hidden;
+}
+.progress {
+  background-color: #017466;
+  height: 100%;
+  color: white;
+  text-align: center;
+  line-height: 20px;
+  font-size: 12px;
+}
+
+/* Задачи */
+.task-item {
+  background-color: rgba(0,0,0,0.05);
+  padding: 8px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+}
+.task-item input {
+  margin-right: 10px;
+}
+.task-item .done {
+  text-decoration: line-through;
+  color: #9e9e9e;
+}
+
+/* Статистика */
+.stat-item {
+  background-color: rgba(0,0,0,0.05);
+  padding: 8px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  padding: 15px;
+  text-decoration: solid black;
+}
