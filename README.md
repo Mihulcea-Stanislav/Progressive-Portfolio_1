@@ -10,8 +10,6 @@ It is constantly evolving as I continue learning and improving.
 
 🌱 Currently learning Node.js, JavaScript
 
-📚 Building real projects to strengthen my skills
-
 📈 Documenting my journey and sharing it on social media
 
 🛠️ Tech Stack
