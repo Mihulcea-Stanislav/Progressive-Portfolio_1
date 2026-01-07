@@ -1,17 +1,26 @@
 👋 Hi, I’m Stas
+
 Welcome to my portfolio!
-This repository showcases my skills across different fields, including programming, backend development, and personal projects.
-It is constantly evolving as I continue studying and improving.
+This repository showcases my skills, projects, and progress in backend development and programming.
+It is constantly evolving as I continue learning and improving.
 
 🚀 About Me
-💻 Beginner developer focused on backend & full-stack
+
+💻 Beginner developer focused on backend and full-stack
+
 🌱 Currently learning Node.js, JavaScript
-📈 Documenting my progress and sharing it on social media
+
+📚 Building real projects to strengthen my skills
+
+📈 Documenting my journey and sharing it on social media
+
 🛠️ Tech Stack
+
 Languages: JavaScript, HTML, CSS
 Tools: Git, GitHub, VS Code
-Backend: Node.js, Express(learning)
-Databases: JSON (learning SQL soon)
+Backend: Node.js, Express (learning)
+Databases: JSON, SQL (soon)
+
 📂 Projects
-🔧 More projects coming soon…
-This portfolio will be updated as I progress.
+
+More projects will appear as I grow — this portfolio will be updated regularly.
